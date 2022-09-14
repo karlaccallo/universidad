@@ -23,6 +23,8 @@ var/
 wheels/
 *.egg-info/
 .installed.cfg
+pyvenv.cfg
+
 *.egg
 MANIFEST
 
